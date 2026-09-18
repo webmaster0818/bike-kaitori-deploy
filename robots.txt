@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bike-kaitori.com/sitemap.xml
+Sitemap: https://biker-sell.com/sitemap.xml
